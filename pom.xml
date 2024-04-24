@@ -11,8 +11,8 @@
     <modules>
         <module>chatbot-domain</module>
         <module>chatbot-application</module>
-        <module>chatbot-interfaces</module>
         <module>chatbot-infrastructure</module>
+        <module>chatbot-interfaces2</module>
     </modules>
 
     <properties>

@@ -1,0 +1,6 @@
+server:
+  port: 8090
+chatbot:
+  groupId: 28888818455441
+  cookie: zsxq_access_token=7E48990D-9791-0D5F-78B6-EDBA4C3846ED_499C9A1E09626DA7; zsxqsessionid=ac4bc557e77bf7445ba7ddc0bd1f7756; abtest_env=product; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2218f0a2c887b48a-00963a93117cf1e-4c657b58-1327104-18f0a2c887c906%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMThmMGEyYzg4N2I0OGEtMDA5NjNhOTMxMTdjZjFlLTRjNjU3YjU4LTEzMjcxMDQtMThmMGEyYzg4N2M5MDYifQ%3D%3D%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22%24device_id%22%3A%2218f0a2c887b48a-00963a93117cf1e-4c657b58-1327104-18f0a2c887c906%22%7D; sajssdk_2015_cross_new_user=1
+  openAiKey: sk-Hs3zJqtqhAzgGlDz70908bB01b1b493488F81eD1E6262d6d
